@@ -1,0 +1,35 @@
+/* src/styles/home.css */
+.home-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #000000; /* noir */
+  color: #FFFFFF; /* texte blanc */
+}
+
+.home-container h2 {
+  font-size: 2rem;
+  color: #FFD700; /* or */
+  margin-bottom: 1rem;
+}
+
+.home-container p {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+}
+
+/* Bouton principal */
+.btn-start {
+  background-color: #FFD700; /* or */
+  color: #000000; /* texte noir */
+  padding: 0.8rem 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  transition: all 0.3s;
+}
+
+/* Hover bouton */
+.btn-start:hover {
+  background-color: #000000; /* noir */
+  color: #FFD700; /* or */
+}

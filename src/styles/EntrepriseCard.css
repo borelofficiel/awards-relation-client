@@ -1,0 +1,50 @@
+.card {
+  background-color: #fef9e7;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  color: #1E3A8A;
+  font-weight: bold;
+}
+
+.card-description {
+  margin: 0.5rem 0 1rem;
+  color: #333;
+}
+
+.card-votes {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.card-btn {
+  background-color: #DC2626;
+  color: #FFD700;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+
+.card-btn:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+/* Responsive pour mobile */
+@media (min-width: 640px) {
+  .card {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,40 @@
+/* src/styles/results.css */
+.results-container {
+  padding: 2rem;
+  text-align: center;
+  background-color: #FFFFFF; /* fond clair */
+  color: #000000;
+}
+
+.results-container h2 {
+  color: #FFD700; /* or */
+  margin-bottom: 1rem;
+}
+
+/* Liste des résultats */
+.results-container ol {
+  list-style: decimal;
+  padding-left: 0;
+}
+
+.results-container li {
+  background-color: #000000; /* noir */
+  color: #FFD700; /* or */
+  margin: 0.5rem auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: 250px;
+  transition: transform 0.3s;
+}
+
+/* Hover sur chaque résultat */
+.results-container li:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive mobile */
+@media (max-width: 640px) {
+  .results-container li {
+    width: 80%;
+  }
+}
