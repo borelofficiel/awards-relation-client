@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -23,9 +23,9 @@ function App() {
             <>
               <Header />
               <Routes>
-                <Route path="/Home" element={<Home />} />
-                <Route path="/vote" element={<Vote />} />
-                <Route path="/resultats" element={<Resultats />} />
+                <Route path="Home" element={<Home />} />
+                <Route path="Vote" element={<Vote />} />
+                <Route path="Resultats" element={<Resultats />} />
               </Routes>
               <Footer />
             </>
