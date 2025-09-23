@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/awards-relation-client-2025/static/css/main.f27b7dd7.css",
-    "main.js": "/awards-relation-client-2025/static/js/main.b7987398.js",
-    "static/js/453.939bbba1.chunk.js": "/awards-relation-client-2025/static/js/453.939bbba1.chunk.js",
-    "index.html": "/awards-relation-client-2025/index.html",
-    "main.f27b7dd7.css.map": "/awards-relation-client-2025/static/css/main.f27b7dd7.css.map",
-    "main.b7987398.js.map": "/awards-relation-client-2025/static/js/main.b7987398.js.map",
-    "453.939bbba1.chunk.js.map": "/awards-relation-client-2025/static/js/453.939bbba1.chunk.js.map"
+    "main.css": "/awards-relation-client/static/css/main.f27b7dd7.css",
+    "main.js": "/awards-relation-client/static/js/main.6c3cf996.js",
+    "static/js/453.939bbba1.chunk.js": "/awards-relation-client/static/js/453.939bbba1.chunk.js",
+    "index.html": "/awards-relation-client/index.html",
+    "main.f27b7dd7.css.map": "/awards-relation-client/static/css/main.f27b7dd7.css.map",
+    "main.6c3cf996.js.map": "/awards-relation-client/static/js/main.6c3cf996.js.map",
+    "453.939bbba1.chunk.js.map": "/awards-relation-client/static/js/453.939bbba1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f27b7dd7.css",
-    "static/js/main.b7987398.js"
+    "static/js/main.6c3cf996.js"
   ]
 }
