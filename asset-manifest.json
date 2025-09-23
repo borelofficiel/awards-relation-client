@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/borelofficiel/awards-relation-client/static/css/main.f27b7dd7.css",
-    "main.js": "/borelofficiel/awards-relation-client/static/js/main.4737acca.js",
-    "static/js/453.939bbba1.chunk.js": "/borelofficiel/awards-relation-client/static/js/453.939bbba1.chunk.js",
-    "index.html": "/borelofficiel/awards-relation-client/index.html",
-    "main.f27b7dd7.css.map": "/borelofficiel/awards-relation-client/static/css/main.f27b7dd7.css.map",
-    "main.4737acca.js.map": "/borelofficiel/awards-relation-client/static/js/main.4737acca.js.map",
-    "453.939bbba1.chunk.js.map": "/borelofficiel/awards-relation-client/static/js/453.939bbba1.chunk.js.map"
+    "main.css": "/awards-relation-client/static/css/main.f27b7dd7.css",
+    "main.js": "/awards-relation-client/static/js/main.b66e2186.js",
+    "static/js/453.939bbba1.chunk.js": "/awards-relation-client/static/js/453.939bbba1.chunk.js",
+    "index.html": "/awards-relation-client/index.html",
+    "main.f27b7dd7.css.map": "/awards-relation-client/static/css/main.f27b7dd7.css.map",
+    "main.b66e2186.js.map": "/awards-relation-client/static/js/main.b66e2186.js.map",
+    "453.939bbba1.chunk.js.map": "/awards-relation-client/static/js/453.939bbba1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f27b7dd7.css",
-    "static/js/main.4737acca.js"
+    "static/js/main.b66e2186.js"
   ]
 }
