@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/borelofficiel/awards-relation-client/static/css/main.f27b7dd7.css",
+    "main.js": "/borelofficiel/awards-relation-client/static/js/main.4b9cd4ab.js",
+    "static/js/453.939bbba1.chunk.js": "/borelofficiel/awards-relation-client/static/js/453.939bbba1.chunk.js",
+    "index.html": "/borelofficiel/awards-relation-client/index.html",
+    "main.f27b7dd7.css.map": "/borelofficiel/awards-relation-client/static/css/main.f27b7dd7.css.map",
+    "main.4b9cd4ab.js.map": "/borelofficiel/awards-relation-client/static/js/main.4b9cd4ab.js.map",
+    "453.939bbba1.chunk.js.map": "/borelofficiel/awards-relation-client/static/js/453.939bbba1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f27b7dd7.css",
+    "static/js/main.4b9cd4ab.js"
+  ]
+}
