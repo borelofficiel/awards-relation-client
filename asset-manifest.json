@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/awards-relation-client/static/css/main.d8216a45.css",
-    "main.js": "/awards-relation-client/static/js/main.384e4365.js",
+    "main.css": "/awards-relation-client/static/css/main.77a6b837.css",
+    "main.js": "/awards-relation-client/static/js/main.341c1dd0.js",
     "static/js/453.939bbba1.chunk.js": "/awards-relation-client/static/js/453.939bbba1.chunk.js",
     "static/media/SBC.jpeg": "/awards-relation-client/static/media/SBC.843455239f22480153ab.jpeg",
     "static/media/Patner.jpeg": "/awards-relation-client/static/media/Patner.b0c95a653f1548dd7610.jpeg",
     "static/media/logo.jpeg": "/awards-relation-client/static/media/logo.5d3883176397f806758f.jpeg",
     "index.html": "/awards-relation-client/index.html",
-    "main.d8216a45.css.map": "/awards-relation-client/static/css/main.d8216a45.css.map",
-    "main.384e4365.js.map": "/awards-relation-client/static/js/main.384e4365.js.map",
+    "main.77a6b837.css.map": "/awards-relation-client/static/css/main.77a6b837.css.map",
+    "main.341c1dd0.js.map": "/awards-relation-client/static/js/main.341c1dd0.js.map",
     "453.939bbba1.chunk.js.map": "/awards-relation-client/static/js/453.939bbba1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8216a45.css",
-    "static/js/main.384e4365.js"
+    "static/css/main.77a6b837.css",
+    "static/js/main.341c1dd0.js"
   ]
 }
